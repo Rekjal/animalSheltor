@@ -1,0 +1,45 @@
+img {
+    float: center;
+    max-width: 250px;
+    max-height: 100px;
+    padding: 15px;
+    border: 5px solid violet;
+    margin-top: 20px;
+  }
+  
+  .sidebar {
+    
+    text-align: center;
+    background-color: yellow;
+    border: 5px solid green;
+    padding: 30px;
+    /*margin: 100px; */
+  }
+  
+  .lion {
+    width: 300px;
+    float: left;
+    background-color: green;
+    margin: 20px;
+  }
+
+
+  .hyena {
+    width: 300px;
+    float: left;
+    background-color: red;
+    margin: 20px;
+  }
+
+
+  .peacock {
+    width: 300px;
+    float: left;
+    background-color: yellow;
+    margin: 20px;
+  }
+
+  .header {
+   font-size: 25px;
+   text-align: center;
+  }
